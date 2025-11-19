@@ -1,4 +1,4 @@
-# 📘 TMDB Discover – QA Automation Assignment  
+# 📘 TMDB – QA Automation Assignment  
 **Production-Ready Selenium + PyTest Automation Framework**
 
 This repository contains a complete, production-grade UI test automation framework built for validating the **TMDB Discover Web Application**.  
